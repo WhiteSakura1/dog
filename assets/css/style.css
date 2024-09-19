@@ -1,0 +1,211 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1060px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+
+}
+.main{
+    background-image: url(../img/Background.png);
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+}
+.about__wrap{
+    height: 700px;
+    background-color: #5D62D5;
+    border-radius: 40px;
+    margin-top: -80px;
+    position: relative;
+}
+.about__dots{
+    position: absolute;
+    top: -110px;
+    right: -70px;
+    
+}
+.about__dog{
+    border-radius: 40px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -120px;
+    z-index: 1;
+}
+.logo_text_h1{
+   padding-top: 100px;
+   padding-left: 120px;
+}
+.who_we{
+    width: 450px;
+    height: 17px;
+    left: 33px;
+    gap: 0px;
+    opacity: 0px;
+    color: #F5F5F5;
+    font-weight: 700px;
+    font-size: 12px;
+    line-height: 24px;
+    letter-spacing: 2.5px;
+    position: absolute;
+    padding-left: 110px;
+    top: 100px;
+}
+.nemo{
+    color: #FFFFFF;
+    font-size: 36px;
+    line-height: 42px;
+}
+.ut{
+    color: #F5F5F5;
+    padding-top: 36px;
+    font-size: 16px;
+    width: 846px;
+    height: 76px;
+}
+.blob{
+    position: absolute;
+    width: 553px;
+    height: 572px;
+    margin-top: -34px;
+    right: 480px;
+    z-index: 0;
+}
+.overline{
+    width: 1020px;
+    height: 308px;
+    background-color: #ffffff;
+    margin-top: 220px;
+    margin-left: 205px;
+}
+.our{
+    position: absolute;
+    padding-left: 30px;
+    padding-top: 12px;
+    color: #5D62B5;
+    font-size: 12px;
+}
+.sed{
+    color: #000000;
+    font-size: 36px;
+    padding-top: 30px;
+}
+.love{
+    font-size: 19px;
+    line-height: 26px;
+    color: #F2726F;
+    width: 235px;
+    height: 26px;
+    position: absolute;
+    margin-left: 296px;
+    top: 1818px;
+}
+.godlove{
+    width: 63px;
+    height: 63px;
+    position: absolute;
+    margin-left: 216px;
+    top: 1800px;
+}
+.at{
+    font-size: 16px;
+    line-height: 24px;
+    color: #4B4B4B;
+    position: absolute;
+    margin-left: 216px;
+    top: 1860px;
+}
+.on{
+    font-size: 19px;
+    line-height: 26px;
+    color: #F2726F;
+    width: 235px;
+    height: 26px;
+    position: absolute;
+    margin-left: 644px;
+    top: 1818px;
+}
+.onimg{
+    width: 63px;
+    height: 63px;
+    position: absolute;
+    margin-left: 558px;
+    top: 1800px;
+}
+.dol{
+    font-size: 16px;
+    line-height: 24px;
+    color: #4B4B4B;
+    position: absolute;
+    margin-left: 644px;
+    top: 1860px;
+}
+.live{
+    font-size: 19px;
+    line-height: 26px;
+    color: #F2726F;
+    width: 235px;
+    height: 26px;
+    position: absolute;
+    margin-left: 992px;
+    top: 1818px;
+}
+.liveimg{
+    width: 63px;
+    height: 63px;
+    position: absolute;
+    margin-left: 906px;
+    top: 1800px;
+}
+.quis{
+    font-size: 16px;
+    line-height: 24px;
+    color: #4B4B4B;
+    position: absolute;
+    margin-left: 992px;
+    top: 1860px;
+}
+.overline_logo{
+    background-color: #5D62B5;
+}
+.dogrun{
+    background-color: #25CEC9;
+    margin-left: 95px;
+    width: 1240px;
+    height: 500px;
+    z-index: -1;
+}
+.dogrun_img{
+    width: 744px;
+    height: 490px;
+    z-index:0;
+}
+.nemo1{
+    color: #FFFFFF;
+    font-size: 36px;
+    position: absolute;
+    top: 2050px;
+    left: 919px;
+    line-height: 42px;
+}
+.knop{
+    width: 210px;
+    height: 48px;
+    background-color: #F2726F;
+    border-color: #F2726F;
+    border-radius: 8px;
+    position: absolute;
+    top: 2220px;
+    left: 919px;
+}
+.make{
+    font-size: 12px;
+    text-decoration: none;
+    color: #ffffff;
+    line-height: 24px;
+}
